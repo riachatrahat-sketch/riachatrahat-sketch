@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 
 - 🌐 I build and customize **WordPress websites** for clients and businesses
-- 🎨 I work as a **freelance UI/UX designer**: pixel-perfect design cloning, Figma designs and presentation redesign
-- 🔄 I convert PDFs, websites and documents into **editable Figma or PowerPoint** files
+- 🎨 I work as a **freelance UI/UX designer**: pixel-perfect design cloning and Figma designs
+- 🔄 I convert PDFs, websites and documents into **editable Figma** files
 - 📱 Currently exploring app development (Flutter) as a side learning path
 - 💬 Ask me about: WordPress, Elementor, UI/UX, Figma, website redesign
 
@@ -28,8 +28,7 @@
 | WordPress Development | Custom sites, themes, page builders, speed and SEO setup |
 | UI/UX Design | Figma designs, landing pages, app and web interfaces |
 | Design Cloning | Pixel-perfect recreation of existing designs |
-| Presentation Redesign | Modern, clean PowerPoint decks |
-| File Conversion | PDF / website / docs → editable Figma or PPT |
+| File Conversion | PDF / website / docs → editable Figma files |
 
 ---
 
@@ -38,7 +37,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
